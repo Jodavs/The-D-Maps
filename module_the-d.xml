@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_the-d" default="compile.module.the-d">
+  <dirname property="module.the-d.basedir" file="${ant.file.module_the-d}"/>
+  
+  <property name="module.jdk.home.the-d" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.the-d" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.the-d" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.the-d" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="the-d.output.dir" value="${module.the-d.basedir}/out/production/The-D"/>
+  <property name="the-d.testoutput.dir" value="${module.the-d.basedir}/out/test/The-D"/>
+  
+  <path id="the-d.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="the-d.module.production.classpath">
+    <path refid="${module.jdk.classpath.the-d}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="the-d.runtime.production.module.classpath">
+    <pathelement location="${the-d.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="the-d.module.classpath">
+    <path refid="${module.jdk.classpath.the-d}"/>
+    <pathelement location="${the-d.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  <path id="the-d.runtime.module.classpath">
+    <pathelement location="${the-d.testoutput.dir}"/>
+    <pathelement location="${the-d.output.dir}"/>
+    <path refid="library.libs.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.the-d">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.the-d">
+    <patternset refid="excluded.from.module.the-d"/>
+  </patternset>
+  
+  <path id="the-d.module.sourcepath">
+    <dirset dir="${module.the-d.basedir}">
+      <include name="src"/>
+      <include name="resources"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.the-d" depends="compile.module.the-d.production,compile.module.the-d.tests" description="Compile module The-D"/>
+  
+  <target name="compile.module.the-d.production" depends="register.custom.compilers" description="Compile module The-D; production classes">
+    <mkdir dir="${the-d.output.dir}"/>
+    <javac2 destdir="${the-d.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.the-d}/javac">
+      <compilerarg line="${compiler.args.the-d}"/>
+      <bootclasspath refid="the-d.module.bootclasspath"/>
+      <classpath refid="the-d.module.production.classpath"/>
+      <src refid="the-d.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.the-d"/>
+    </javac2>
+    
+    <copy todir="${the-d.output.dir}">
+      <fileset dir="${module.the-d.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.the-d.basedir}/resources">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.the-d.tests" depends="register.custom.compilers,compile.module.the-d.production" description="compile module The-D; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.the-d" description="cleanup module">
+    <delete dir="${the-d.output.dir}"/>
+    <delete dir="${the-d.testoutput.dir}"/>
+  </target>
+</project>

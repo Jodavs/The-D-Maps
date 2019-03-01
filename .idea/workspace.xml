@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="The-D-obj:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapView.java" line="370" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63a4fd35-7e0a-42ab-a3d2-f7659338da92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The-D.iml" beforeDir="false" afterPath="$PROJECT_DIR$/The-D.iml" afterDir="false" />
+    </list>
+    <ignored path="The-D.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2038665368">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="The-D" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/OSMParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/PolygonApprox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="193" selection-start-line="193" selection-end-line="193" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/Region.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapTileWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/Debugger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/The-D.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/ResourceLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/GeoLocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/tests/RetinaIconTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="treefun" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/Haversine.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/Address.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/PlaceholderTextField.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/OSMParser.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/nongeneric_maps/IdMap.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/DijkstraWhiteBoxTest.java" />
+        <option value="$PROJECT_DIR$/libs/junit-4.12.jar!/org/junit/internal/runners/JUnit38ClassRunner.class" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/KDTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/ModelTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/OSMParserTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/AddressTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/PolygonApprox.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/Drawable.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/MapObject.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapTileFactory.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/Bounds.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/NoPathFoundException.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/Pair.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/BufferTile.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/SuggestionView.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/RetinaIcon.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/Pin.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapView.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapView.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/Levenshtein.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/GeoLocation.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/SpecificPlatform.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/MacOSX.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/AddressSearcher.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/NearestNeighborTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/WayUndirectedGraph.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/MapObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/RegionType.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/VehicleType.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/LoadingView.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/WayEdge.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/controller/ViewController.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/TwoDTree.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/TwoDTree.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/ColorTheme.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/SpringAnimation.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapTileWorker.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/tests/RetinaIconTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/Debugger.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/User.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/view/View.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/Main.java" />
+        <option value="$PROJECT_DIR$/src/edu/itu/the_d/map/utils/ResourceLoader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="-21" />
+    <option name="width" value="960" />
+    <option name="height" value="527" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="The-D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-D" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-D" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-D" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-D" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="940" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="142" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="146" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="940" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Java">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CabalRunConfiguration" factoryName="Haskell">
+      <module name="" />
+      <setting name="executableName" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <environmetVariables />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java" type="Application" factoryName="Application" singleton="true">
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.Main" />
+      <module name="The-D" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Desktop/denmark.osm" />
+      <option name="VM_PARAMETERS" value="-Xms8g" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AddressTest" type="JUnit" factoryName="JUnit">
+      <module name="The-D" />
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.AddressTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapObjectFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.MapObjectFactoryTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.ModelTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearestNeighborTest.testDifferentInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.NearestNeighborTest" />
+      <option name="METHOD_NAME" value="testDifferentInputs" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSMParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.OSMParserTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetinaIconTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.itu.the_d.map.tests.RetinaIconTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.itu.the_d.map.tests in The-D" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="The-D" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.itu.the_d.map.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.itu.the_d.map.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Java" />
+      <item itemvalue="JUnit.AddressTest" />
+      <item itemvalue="JUnit.edu.itu.the_d.map.tests in The-D" />
+      <item itemvalue="JUnit.MapObjectFactoryTest" />
+      <item itemvalue="JUnit.ModelTest" />
+      <item itemvalue="JUnit.OSMParserTest" />
+      <item itemvalue="JUnit.RetinaIconTest" />
+      <item itemvalue="JUnit.NearestNeighborTest.testDifferentInputs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NearestNeighborTest.testDifferentInputs" />
+        <item itemvalue="JUnit.RetinaIconTest" />
+        <item itemvalue="JUnit.OSMParserTest" />
+        <item itemvalue="JUnit.ModelTest" />
+        <item itemvalue="JUnit.MapObjectFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StatisticProjectComponent">
+    <option name="excludeCompilerOutput" value="true" />
+    <option name="excludeIdea9ArtifactDirectory" value="true" />
+    <option name="excludeGitArtifactDirectory" value="true" />
+    <option name="excludeSubversionArtifactDirectory" value="true" />
+    <option name="excludeDotArtifactDirectory" value="false" />
+    <option name="excludeTargetDirectories" value="true" />
+    <option name="activateWhenOpenProject" value="false" />
+    <option name="excludedDirectories">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a4fd35-7e0a-42ab-a3d2-f7659338da92" name="Default" comment="" />
+      <created>1462789007490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1462789007490</updated>
+      <workItem from="1462789010524" duration="6940000" />
+      <workItem from="1462800731497" duration="24000" />
+      <workItem from="1462801827314" duration="1187000" />
+      <workItem from="1462804184687" duration="24000" />
+      <workItem from="1462804232673" duration="18000" />
+      <workItem from="1462808324833" duration="62000" />
+      <workItem from="1462808630569" duration="3330000" />
+      <workItem from="1462811971287" duration="4496000" />
+      <workItem from="1462818874447" duration="6028000" />
+      <workItem from="1462870575781" duration="865000" />
+      <workItem from="1462871538286" duration="25277000" />
+      <workItem from="1462966442090" duration="26445000" />
+      <workItem from="1463040950121" duration="11578000" />
+      <workItem from="1463054334717" duration="4012000" />
+      <workItem from="1463140851435" duration="949000" />
+      <workItem from="1463141979458" duration="802000" />
+      <workItem from="1463143027843" duration="2206000" />
+      <workItem from="1463145256847" duration="4761000" />
+      <workItem from="1463159610230" duration="5750000" />
+      <workItem from="1463166048076" duration="847000" />
+      <workItem from="1463167759322" duration="2128000" />
+      <workItem from="1463170372832" duration="1443000" />
+      <workItem from="1463172097393" duration="153000" />
+      <workItem from="1463172397485" duration="296000" />
+      <workItem from="1463172758029" duration="260000" />
+      <workItem from="1463173056015" duration="2129000" />
+      <workItem from="1463176372772" duration="529000" />
+      <workItem from="1463308412317" duration="76000" />
+      <workItem from="1463308979938" duration="12335000" />
+      <workItem from="1463321960538" duration="933000" />
+      <workItem from="1463322913685" duration="3581000" />
+      <workItem from="1463326663423" duration="2775000" />
+      <workItem from="1463329482061" duration="3000" />
+      <workItem from="1463330644333" duration="42000" />
+      <workItem from="1463332650727" duration="248000" />
+      <workItem from="1463332944391" duration="869000" />
+      <workItem from="1463333989037" duration="1224000" />
+      <workItem from="1463335794618" duration="5000" />
+      <workItem from="1463337559221" duration="1213000" />
+      <workItem from="1463338930114" duration="583000" />
+      <workItem from="1463340593184" duration="111000" />
+      <workItem from="1463343144555" duration="1438000" />
+      <workItem from="1463345537042" duration="2871000" />
+      <workItem from="1463348748216" duration="70000" />
+      <workItem from="1463349659745" duration="4302000" />
+      <workItem from="1463354900982" duration="4454000" />
+      <workItem from="1463360677904" duration="1905000" />
+      <workItem from="1463395773519" duration="3233000" />
+      <workItem from="1463399202181" duration="45000" />
+      <workItem from="1463399271189" duration="193000" />
+      <workItem from="1463399537306" duration="606000" />
+      <workItem from="1463400233207" duration="2971000" />
+      <workItem from="1463404303459" duration="39000" />
+      <workItem from="1463405014227" duration="2413000" />
+      <workItem from="1463408898475" duration="4339000" />
+      <workItem from="1463413949662" duration="3978000" />
+      <workItem from="1463417999543" duration="897000" />
+      <workItem from="1463420829416" duration="87000" />
+      <workItem from="1463421561203" duration="129000" />
+      <workItem from="1463426806095" duration="2220000" />
+      <workItem from="1463429785599" duration="1533000" />
+      <workItem from="1463431365374" duration="6853000" />
+      <workItem from="1463438740553" duration="6514000" />
+      <workItem from="1551449470942" duration="638000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated addresstest&#10;begun work on mapTIles">
+      <created>1462790426783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462790426783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated addresstest&#10;begun work on mapTIles">
+      <created>1462817771084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1462817771084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="merged performance fixes">
+      <created>1462818926486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1462818926486</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed serializable again">
+      <created>1462819634295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1462819634295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="resolving todos&#10;">
+      <created>1463144861436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1463144861436</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.itu.dk/aesk/The-D&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/itu/the_d/map/Main.java&#10;">
+      <created>1463167778107</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1463167778107</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" with route">
+      <created>1463170190001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1463170190001</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" with route">
+      <created>1463172407602</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1463172407602</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" with routewefwefwef">
+      <created>1463314424360</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1463314424360</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge branch 'master' of https://github.itu.dk/aesk/The-D&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/itu/the_d/map/controller/ViewController.java&#10;#&#9;src/edu/itu/the_d/map/model/Model.java&#10;#&#9;src/edu/itu/the_d/map/view/View.java&#10;">
+      <created>1463322142295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1463322142295</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reformatted some methods javadocs">
+      <created>1463338551516</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463338551516</updated>
+    </task>
+    <task id="LOCAL-00012" summary="All tests now pass (fixed some changes in api)">
+      <created>1463406686162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1463406686162</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge branch 'master' of https://github.itu.dk/aesk/The-D&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/itu/the_d/map/Main.java&#10;">
+      <created>1463413958017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1463413958017</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Final Version!!!!!!!">
+      <created>1463445637980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1463445637981</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="NearestNeighborTest_testDifferentInputs - 2016.05.16 at 15h 50m 28s.xml">
+      <configuration name="NearestNeighborTest.testDifferentInputs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OSMParserTest - 2016.05.15 at 14h 50m 25s.xml">
+      <configuration name="OSMParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OSMParserTest - 2016.05.15 at 14h 50m 51s.xml">
+      <configuration name="OSMParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RetinaIconTest - 2016.05.15 at 14h 51m 00s.xml">
+      <configuration name="RetinaIconTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.15 at 14h 51m 53s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.16 at 15h 23m 59s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.16 at 15h 24m 47s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.16 at 15h 49m 41s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.16 at 15h 49m 57s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="edu_itu_the_d_map_tests_in_The-D - 2016.05.16 at 15h 50m 44s.xml">
+      <configuration name="edu.itu.the_d.map.tests in The-D" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="188422000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3236212" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.28091106" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3975026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.39967725" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.16581891" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32439336" />
+      <window_info anchor="bottom" id="Statistic" order="9" weight="0.3298647" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32221624" />
+      <window_info anchor="bottom" id="GhcMod" order="12" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" weight="0.32858595" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Cabal" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14962727" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3236212" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.28095734" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3975026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.39967725" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.16581891" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32439336" />
+      <window_info anchor="bottom" id="Statistic" order="9" weight="0.3298647" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32221624" />
+      <window_info anchor="bottom" id="GhcMod" order="12" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" weight="0.32858595" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Cabal" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
+    <MESSAGE value="updated addresstest&#10;begun work on mapTIles" />
+    <MESSAGE value="merged performance fixes" />
+    <MESSAGE value="fixed serializable again" />
+    <MESSAGE value="resolving todos&#10;" />
+    <MESSAGE value=" with route" />
+    <MESSAGE value=" with routewefwefwef" />
+    <MESSAGE value="Merge branch 'master' of https://github.itu.dk/aesk/The-D&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/itu/the_d/map/controller/ViewController.java&#10;#&#9;src/edu/itu/the_d/map/model/Model.java&#10;#&#9;src/edu/itu/the_d/map/view/View.java&#10;" />
+    <MESSAGE value="reformatted some methods javadocs" />
+    <MESSAGE value="All tests now pass (fixed some changes in api)" />
+    <MESSAGE value="Merge branch 'master' of https://github.itu.dk/aesk/The-D&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/itu/the_d/map/Main.java&#10;" />
+    <MESSAGE value="Final Version!!!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version!!!!!!!" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="clean" isVisible="false" />
+        <filter targetName="makedir" isVisible="false" />
+        <filter targetName="compile" isVisible="false" />
+        <filter targetName="docs" isVisible="false" />
+        <filter targetName="jar" isVisible="false" />
+        <filter targetName="run" isVisible="false" />
+        <filter targetName="main" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+    <buildFile url="file://$PROJECT_DIR$/the-d.xml">
+      <targetFilters>
+        <filter targetName="register.custom.compilers" isVisible="false" />
+        <filter targetName="init" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="build.modules" isVisible="true" />
+        <filter targetName="init.artifacts" isVisible="false" />
+        <filter targetName="artifact.the-d:jar" isVisible="true" />
+        <filter targetName="build.all.artifacts" isVisible="true" />
+        <filter targetName="all" isVisible="true" />
+        <filter targetName="compile.module.the-d" isVisible="true" />
+        <filter targetName="compile.module.the-d.production" isVisible="true" />
+        <filter targetName="compile.module.the-d.tests" isVisible="true" />
+        <filter targetName="clean.module.the-d" isVisible="true" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/FloatSpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2775">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/Haversine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/Bounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-894">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/BufferTile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/PlaceholderTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/SuggestionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/SuggestionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/Model.java.orig" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapTileFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7714">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/RetinaIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/SpecificPlatform.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/MacOSX.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/AddressSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18616">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/tests/NearestNeighborTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/OSMObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/RoadType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/controller/MapViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/controller/ViewController.java.orig" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/RegionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/WayUndirectedGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="84" column="7" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/LoadingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/VehicleType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10028">
+          <caret line="467" column="16" selection-start-line="467" selection-start-column="16" selection-end-line="467" selection-end-column="16" />
+          <folding>
+            <element signature="imports" />
+            <element signature="e#2731#2732#0" />
+            <element signature="e#2749#2750#0" />
+            <element signature="e#2925#2926#0" />
+            <element signature="e#2948#2949#0" />
+            <element signature="e#3050#3051#0" />
+            <element signature="e#3071#3072#0" />
+            <element signature="e#3177#3178#0" />
+            <element signature="e#3199#3200#0" />
+            <element signature="e#9007#9008#0" />
+            <element signature="e#9046#9047#0" />
+            <element signature="e#12359#12360#0" />
+            <element signature="e#12405#12406#0" />
+            <element signature="e#16287#16288#0" />
+            <element signature="e#16368#16369#0" />
+            <element signature="e#17463#17464#0" />
+            <element signature="e#17479#17480#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/controller/ViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4296">
+          <caret line="343" column="53" selection-start-line="343" selection-start-column="53" selection-end-line="343" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/WayEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/TwoDTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="337" lean-forward="true" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/ColorTheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-762">
+          <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/SpringAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/edu/itu/the_d/map/dataprocessing/OSMType.html" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/tests/AddressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/awt/image/ByteInterleavedRaster.class" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/MapObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5493">
+          <caret line="617" column="27" selection-start-line="617" selection-start-column="27" selection-end-line="617" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/javax/swing/JInternalFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="518" column="20" selection-start-line="518" selection-start-column="20" selection-end-line="518" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/tests/OSMParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/ImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/Debugger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The-D.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/utils/GeoLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/tests/RetinaIconTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/dataprocessing/OSMParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/datastructures/PolygonApprox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/view/MapTileWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/itu/the_d/map/model/mapobjects/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>The-D-obj:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>The-D</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+#Placeholder release v0.1
+
+For at køre koden brug java -jar Map.jar <path-to-osm-or-obj-file>
+
+##Changelog v0.1
+
+*Tegning af forskellige vejtyper, bygninger, parker og det meste vand (inkl. havet)
+*Forskellig detaljering ved forskellige zoom-niveauer
+*Simpel datastruktur til sortering af kortudsnit til tegning
+*Simpel xml parser
+
+##Bugs/fejl/mangler
+*Tegner vand på baggrund af en hardcoded værdi (eg. det virker ikke med alle kort)
+*Ingen gui
+*Utroligt langsomt
+*Hardcodet datastruktur til sortering af data
+*Rodet kodebase
+
+##Næste ting der skal arbejdes på
+*Analyse af opgaven og design af systemet
+*Fastlæggelse af overordnede udformning af systemet
+*Overvejelser om mulige datastrukturer
+*Idéer til et gui v. 0.1 + mockups og tegninger
+
+##Tidsforbrug
+Forelæsninger| 15000,-
+Design 		 | 5000,-
+Testing 	 | 0,-
+Kodning 	 | 2500,-
+Undersøgelse | 6250,-
+Planlægning  | 17500,-

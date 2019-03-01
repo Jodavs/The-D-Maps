@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The-D-obj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_D_obj_jar</output-path>
+    <root id="archive" name="The-D.jar">
+      <element id="module-output" name="The-D" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/algs4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/imgscalr-lib-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/hamcrest-all-1.2.0-0000.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

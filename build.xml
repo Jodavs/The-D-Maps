@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="The-D Map" default="main" basedir=".">
+  <!-- Sets variables which can later be used. -->
+  <!-- The value of a property is accessed via ${} -->
+  <property name="src.dir" location="src" />
+  <property name="build.dir" location="bin" />
+  <property name="dist.dir" location="dist" />
+  <property name="docs.dir" location="docs" />
+
+  <!-- Deletes the existing build, docs and dist directory-->
+  <target name="clean">
+    <delete dir="${build.dir}" />
+    <delete dir="${docs.dir}" />
+    <delete dir="${dist.dir}" />
+  </target>
+
+  <!-- Creates the  build, docs and dist directory-->
+  <target name="makedir">
+    <mkdir dir="${build.dir}" />
+    <mkdir dir="${docs.dir}" />
+    <mkdir dir="${dist.dir}" />
+  </target>
+
+  <!-- Compiles the java code (including the usage of library for JUnit -->
+  <target name="compile" depends="clean, makedir">
+    <javac encoding="UTF-8" srcdir="${src.dir}" destdir="${build.dir}">
+      <classpath>
+        <pathelement path="libs/imgscalr-lib-4.2.jar"/>
+        <pathelement path="libs/junit-4.12.jar"/>
+        <pathelement path="libs/hamcrest-all-1.2.0-0000.jar"/>
+      </classpath>
+    </javac>
+
+  </target>
+
+  <!-- Creates Javadoc -->
+  <target name="docs" depends="compile">
+    <javadoc encoding="UTF-8" sourcepath="${src.dir}" destdir="${docs.dir}">
+        <!-- <link offline="true" href="http://docs.oracle.com/javase/8/docs/api/" packagelistloc="docs/java/"/> -->
+        <link href="http://docs.oracle.com/javase/8/docs/api/" />
+    </javadoc>
+  </target>
+
+  <!--Creates the deployable jar file  -->
+  <target name="jar" depends="compile">
+    <jar destfile="${dist.dir}\edu.itu.the_d.map.jar" basedir="${build.dir}">
+      <zipgroupfileset dir="libs" includes="imgscalr-lib-4.2.jar" />
+      <manifest>
+        <attribute name="Main-Class" value="edu.itu.the_d.map.Main" />
+      </manifest>
+    </jar>
+  </target>
+  
+  <target name="run" depends="compile, jar">
+    <description>Make all</description>
+
+    <java fork="true" classname="edu.itu.the_d.map.Main">
+      <classpath>
+        <pathelement path="${build.dir}" />
+        <pathelement path="libs/imgscalr-lib-4.2.jar"/>
+      </classpath>
+    </java>
+    </target>
+    
+  <target name="main" depends="compile, jar, docs">
+    <description>Make all</description>
+
+    <java fork="true" classname="edu.itu.the_d.map.Main">
+        <classpath>
+            <pathelement path="${build.dir}" />
+            <pathelement path="libs/imgscalr-lib-4.2.jar"/>
+        </classpath>
+    </java>
+  </target>
+
+</project>

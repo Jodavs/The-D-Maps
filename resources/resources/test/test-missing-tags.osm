@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.4.0 (6790 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="55.6168000" minlon="12.5921600" maxlat="55.6179400" maxlon="12.5950900"/>
+ <node id="8032481" visible="true" version="23" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6162627" lon="12.5927353"/>
+ <node id="8097117" visible="true" version="11" changeset="17275364" timestamp="2013-08-09T07:14:25Z" user="Hjart" uid="207581" lat="55.6185944" lon="12.6065467"/>
+ <node id="8097119" visible="true" version="23" changeset="17275364" timestamp="2013-08-09T07:14:25Z" user="Hjart" uid="207581" lat="55.6185545" lon="12.6060330">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="8312021" visible="true" version="15" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6166622" lon="12.5888707"/>
+ <node id="17033272" visible="true" version="29" changeset="17275364" timestamp="2013-08-09T07:14:16Z" user="Hjart" uid="207581" lat="55.6186248" lon="12.6132634"/>
+ <node id="26588215" visible="true" version="17" changeset="6569077" timestamp="2010-12-06T21:27:43Z" user="Claus Hindsgaul" uid="185440" lat="55.6148297" lon="12.5794591"/>
+ <node id="26588194" visible="true" version="16" changeset="6572469" timestamp="2010-12-07T09:27:46Z" user="Claus Hindsgaul" uid="185440" lat="55.6158544" lon="12.5838854"/>
+ <node id="26588201" visible="true" version="12" changeset="508684" timestamp="2009-04-13T20:03:50Z" user="sfromis" uid="49560" lat="55.6153250" lon="12.5822285"/>
+ <node id="26588207" visible="true" version="12" changeset="508684" timestamp="2009-04-13T20:03:49Z" user="sfromis" uid="49560" lat="55.6151844" lon="12.5817907"/>
+ <node id="26588197" visible="true" version="13" changeset="6569368" timestamp="2010-12-06T21:50:02Z" user="Claus Hindsgaul" uid="185440" lat="55.6157216" lon="12.5831884"/>
+ <node id="26588211" visible="true" version="17" changeset="6569410" timestamp="2010-12-06T21:54:07Z" user="Claus Hindsgaul" uid="185440" lat="55.6150964" lon="12.5813307"/>
+ <node id="26588182" visible="true" version="13" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6170846" lon="12.5913641"/>
+ <node id="26588324" visible="true" version="22" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6209646" lon="12.5922252"/>
+ <node id="30688381" visible="true" version="12" changeset="9920905" timestamp="2011-11-23T13:24:12Z" user="Claus Hindsgaul" uid="185440" lat="55.6186168" lon="12.6093378"/>
+ <node id="30688421" visible="true" version="13" changeset="9920905" timestamp="2011-11-23T13:24:12Z" user="Claus Hindsgaul" uid="185440" lat="55.6186216" lon="12.6103905"/>
+ <node id="30688432" visible="true" version="12" changeset="6986048" timestamp="2011-01-16T11:01:38Z" user="Claus Hindsgaul" uid="185440" lat="55.6186216" lon="12.6116232"/>
+ <node id="340756235" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:23Z" user="AWSbot" uid="2184056" lat="55.6171458" lon="12.5947522">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="103"/>
+  <tag k="osak:identifier" v="0A3F507DE4A632B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756240" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:43Z" user="AWSbot" uid="2184056" lat="55.6176660" lon="12.5938966">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="108"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="108"/>
+  <tag k="osak:identifier" v="0A3F507DE4AB32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756241" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:48Z" user="AWSbot" uid="2184056" lat="55.6173009" lon="12.5932824">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="109"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="109"/>
+  <tag k="osak:identifier" v="0A3F507DE4AC32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766681" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:14:18Z" user="AWSbot" uid="2184056" lat="55.6169692" lon="12.5939516">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="52"/>
+  <tag k="osak:identifier" v="0A3F507E0A3B32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="251438389" visible="true" version="15" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6164394" lon="12.5875881"/>
+ <node id="251438391" visible="true" version="14" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6168696" lon="12.5901520"/>
+ <node id="281662797" visible="true" version="3" changeset="6994654" timestamp="2011-01-16T22:19:30Z" user="Claus Hindsgaul" uid="185440" lat="55.6191099" lon="12.5874558"/>
+ <node id="307941457" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6090448" lon="12.5892736"/>
+ <node id="307942446" visible="true" version="18" changeset="6656027" timestamp="2010-12-14T08:30:51Z" user="Claus Hindsgaul" uid="185440" lat="55.6092000" lon="12.5901405"/>
+ <node id="8032478" visible="true" version="41" changeset="15754872" timestamp="2013-04-16T20:06:42Z" user="hmjdk" uid="238151" lat="55.6223706" lon="12.5921085">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="340756242" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:40:57Z" user="AWSbot" uid="2184056" lat="55.6176444" lon="12.5936216">
+ </node>
+ <node id="340756244" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:41:03Z" user="AWSbot" uid="2184056" lat="55.6176591" lon="12.5933439">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="112"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="112"/>
+  <tag k="osak:identifier" v="0A3F507DE4AF32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756172" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:44:38Z" user="AWSbot" uid="2184056" lat="55.6175896" lon="12.5928679">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="14"/>
+  <tag k="osak:identifier" v="0A3F507DE46732B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756239" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:40Z" user="AWSbot" uid="2184056" lat="55.6173089" lon="12.5937338">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="107"/>
+  <tag k="osak:identifier" v="0A3F507DE4AA32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756245" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:41:08Z" user="AWSbot" uid="2184056" lat="55.6175399" lon="12.5929977">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="114"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="114"/>
+  <tag k="osak:identifier" v="0A3F507DE4B032B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766677" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:11:08Z" user="AWSbot" uid="2184056" lat="55.6176539" lon="12.5948868">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="45"/>
+  <tag k="osak:identifier" v="0A3F507E0A3732B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766678" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:11:25Z" user="AWSbot" uid="2184056" lat="55.6177362" lon="12.5941473">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="46"/>
+  <tag k="osak:identifier" v="0A3F507E0A3832B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766679" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:13:48Z" user="AWSbot" uid="2184056" lat="55.6171121" lon="12.5939309">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="50"/>
+  <tag k="osak:identifier" v="0A3F507E0A3932B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766680" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:14:05Z" user="AWSbot" uid="2184056" lat="55.6169244" lon="12.5943814">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="51"/>
+  <tag k="osak:identifier" v="0A3F507E0A3A32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766683" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:14:51Z" user="AWSbot" uid="2184056" lat="55.6168003" lon="12.5939715">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="54"/>
+  <tag k="osak:identifier" v="0A3F507E0A3D32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340766676" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T20:10:44Z" user="AWSbot" uid="2184056" lat="55.6178579" lon="12.5942962">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Sønderholm Alle"/>
+  <tag k="osak:house_no" v="44"/>
+  <tag k="osak:identifier" v="0A3F507E0A3632B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Sønderholm Alle"/>
+  <tag k="osak:street_no" v="2585"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="374290939" visible="true" version="3" changeset="508684" timestamp="2009-04-13T20:03:51Z" user="sfromis" uid="49560" lat="55.6155819" lon="12.5828035"/>
+ <node id="1427283642" visible="true" version="1" changeset="9248132" timestamp="2011-09-08T18:34:17Z" user="Claus Hindsgaul" uid="185440" lat="55.6186179" lon="12.6087915"/>
+ <node id="281693620" visible="true" version="9" changeset="9248132" timestamp="2011-09-08T18:34:18Z" user="Claus Hindsgaul" uid="185440" lat="55.6186181" lon="12.6070251"/>
+ <node id="1427328187" visible="true" version="1" changeset="9248448" timestamp="2011-09-08T19:05:29Z" user="Claus Hindsgaul" uid="185440" lat="55.6186217" lon="12.6109224"/>
+ <node id="592005488" visible="true" version="1" changeset="3379138" timestamp="2009-12-15T13:20:17Z" user="Hans O Nymand" uid="74990" lat="55.6173925" lon="12.5926512">
+  <tag k="highway" v="bus_stop"/>
+ </node>
+ <node id="677844460" visible="true" version="1" changeset="4271826" timestamp="2010-03-29T21:37:44Z" user="Hans O Nymand" uid="74990" lat="55.6171514" lon="12.5924786">
+  <tag k="amenity" v="post_box"/>
+ </node>
+ <node id="340764127" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:47:57Z" user="AWSbot" uid="2184056" lat="55.6169898" lon="12.5923934">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="162"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="162"/>
+  <tag k="osak:identifier" v="0A3F507E00D632B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340764109" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:45:24Z" user="AWSbot" uid="2184056" lat="55.6169554" lon="12.5929327">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="141"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="141"/>
+  <tag k="osak:identifier" v="0A3F507E00CA32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340764121" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:46:57Z" user="AWSbot" uid="2184056" lat="55.6174334" lon="12.5924067">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="158"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="158"/>
+  <tag k="osak:identifier" v="0A3F507E00D232B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="2000-07-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340764107" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:44:18Z" user="AWSbot" uid="2184056" lat="55.6177951" lon="12.5929801">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="135"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="135"/>
+  <tag k="osak:identifier" v="0A3F507E00C932B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340764130" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:48:02Z" user="AWSbot" uid="2184056" lat="55.6168103" lon="12.5924497">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="164"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="164"/>
+  <tag k="osak:identifier" v="0A3F507E00D832B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756236" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:27Z" user="AWSbot" uid="2184056" lat="55.6173833" lon="12.5950045">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="104"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="104"/>
+  <tag k="osak:identifier" v="0A3F507DE4A732B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="340756243" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:41:00Z" user="AWSbot" uid="2184056" lat="55.6172236" lon="12.5929715">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="111"/>
+  <tag k="osak:identifier" v="0A3F507DE4AE32B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="281695145" visible="true" version="18" changeset="6569368" timestamp="2010-12-06T21:50:09Z" user="Claus Hindsgaul" uid="185440" lat="55.6154458" lon="12.5825529"/>
+ <node id="251438387" visible="true" version="15" changeset="6569410" timestamp="2010-12-06T21:54:08Z" user="Claus Hindsgaul" uid="185440" lat="55.6162591" lon="12.5865020"/>
+ <node id="251438385" visible="true" version="15" changeset="6569410" timestamp="2010-12-06T21:54:10Z" user="Claus Hindsgaul" uid="185440" lat="55.6163425" lon="12.5869882"/>
+ <node id="8312019" visible="true" version="26" changeset="6572469" timestamp="2010-12-07T09:27:46Z" user="Claus Hindsgaul" uid="185440" lat="55.6161154" lon="12.5855278"/>
+ <node id="17033284" visible="true" version="16" changeset="17275364" timestamp="2013-08-09T07:14:16Z" user="Hjart" uid="207581" lat="55.6172462" lon="12.5978378"/>
+ <node id="1038057189" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:44Z" user="Claus Hindsgaul" uid="185440" lat="55.6170159" lon="12.5905678"/>
+ <node id="1038057258" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:45Z" user="Claus Hindsgaul" uid="185440" lat="55.6173249" lon="12.5922737"/>
+ <node id="1038057260" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:45Z" user="Claus Hindsgaul" uid="185440" lat="55.6166342" lon="12.5883523"/>
+ <node id="1038057270" visible="true" version="2" changeset="6994654" timestamp="2011-01-16T22:19:30Z" user="Claus Hindsgaul" uid="185440" lat="55.6169695" lon="12.5902944"/>
+ <node id="1038057277" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:46Z" user="Claus Hindsgaul" uid="185440" lat="55.6174721" lon="12.5901865"/>
+ <node id="1038057281" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:46Z" user="Claus Hindsgaul" uid="185440" lat="55.6169237" lon="12.5904535"/>
+ <node id="1038057282" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:46Z" user="Claus Hindsgaul" uid="185440" lat="55.6170616" lon="12.5903864"/>
+ <node id="1038057297" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:47Z" user="Claus Hindsgaul" uid="185440" lat="55.6171311" lon="12.5881860"/>
+ <node id="1038057298" visible="true" version="1" changeset="6655854" timestamp="2010-12-14T08:04:47Z" user="Claus Hindsgaul" uid="185440" lat="55.6178430" lon="12.5923435"/>
+ <node id="281662799" visible="true" version="2" changeset="6655854" timestamp="2010-12-14T08:04:53Z" user="Claus Hindsgaul" uid="185440" lat="55.6185664" lon="12.5902717"/>
+ <node id="281662800" visible="true" version="2" changeset="6655854" timestamp="2010-12-14T08:04:53Z" user="Claus Hindsgaul" uid="185440" lat="55.6195245" lon="12.5898892"/>
+ <node id="281699576" visible="true" version="21" changeset="6994654" timestamp="2011-01-16T22:19:29Z" user="Claus Hindsgaul" uid="185440" lat="55.6086745" lon="12.5872082"/>
+ <node id="8032483" visible="true" version="24" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6145363" lon="12.5928930"/>
+ <node id="251438379" visible="true" version="23" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6191947" lon="12.5924101"/>
+ <node id="251438381" visible="true" version="21" changeset="6656027" timestamp="2010-12-14T08:30:49Z" user="Claus Hindsgaul" uid="185440" lat="55.6219563" lon="12.5921208"/>
+ <node id="251438382" visible="true" version="19" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6213115" lon="12.5921859"/>
+ <node id="251438383" visible="true" version="19" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6204329" lon="12.5922742"/>
+ <node id="251438413" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6087522" lon="12.5876286"/>
+ <node id="251438415" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6105422" lon="12.5934229"/>
+ <node id="251438386" visible="true" version="16" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6165611" lon="12.5882522"/>
+ <node id="30688692" visible="true" version="21" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6095296" lon="12.5920374"/>
+ <node id="26677119" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:50Z" user="Claus Hindsgaul" uid="185440" lat="55.6156537" lon="12.5928016"/>
+ <node id="281694130" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:52Z" user="Claus Hindsgaul" uid="185440" lat="55.6129461" lon="12.5930992"/>
+ <node id="281693122" visible="true" version="20" changeset="6656027" timestamp="2010-12-14T08:30:53Z" user="Claus Hindsgaul" uid="185440" lat="55.6182835" lon="12.5925045"/>
+ <node id="8312023" visible="true" version="37" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6173150" lon="12.5926253"/>
+ <node id="16965545" visible="true" version="27" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6097954" lon="12.5935031"/>
+ <node id="1036890896" visible="true" version="4" changeset="6923495" timestamp="2011-01-10T06:59:35Z" user="Claus Hindsgaul" uid="185440" lat="55.6081760" lon="12.5843566"/>
+ <node id="1106880102" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6169716" lon="12.5905078"/>
+ <node id="1106880106" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6173304" lon="12.5924797"/>
+ <node id="1106880113" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6170081" lon="12.5904109">
+  <tag k="access" v="permissive"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1106880117" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6175756" lon="12.5879771">
+  <tag k="access" v="permissive"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1106880125" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6175788" lon="12.5879422"/>
+ <node id="1106880126" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6169412" lon="12.5903407"/>
+ <node id="1106880129" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6188927" lon="12.5923532"/>
+ <node id="1106880133" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6176138" lon="12.5942744"/>
+ <node id="1106880136" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6166095" lon="12.5882948"/>
+ <node id="1106880146" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6188756" lon="12.5923559">
+  <tag k="access" v="permissive"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1106880153" visible="true" version="1" changeset="6994654" timestamp="2011-01-16T22:19:26Z" user="Claus Hindsgaul" uid="185440" lat="55.6175733" lon="12.5880259"/>
+ <node id="26677110" visible="true" version="11" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6171539" lon="12.5956158"/>
+ <node id="26677111" visible="true" version="16" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6174079" lon="12.5941079"/>
+ <node id="26677112" visible="true" version="8" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6174330" lon="12.5935707"/>
+ <node id="26677114" visible="true" version="10" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6159006" lon="12.5942871"/>
+ <node id="26677113" visible="true" version="8" changeset="6994654" timestamp="2011-01-16T22:19:27Z" user="Claus Hindsgaul" uid="185440" lat="55.6174159" lon="12.5932091"/>
+ <node id="281693262" visible="true" version="9" changeset="6994654" timestamp="2011-01-16T22:19:28Z" user="Claus Hindsgaul" uid="185440" lat="55.6175069" lon="12.5941586"/>
+ <node id="281699559" visible="true" version="26" changeset="6994654" timestamp="2011-01-16T22:19:29Z" user="Claus Hindsgaul" uid="185440" lat="55.6083891" lon="12.5855918"/>
+ <node id="281662798" visible="true" version="20" changeset="6994654" timestamp="2011-01-16T22:19:29Z" user="Claus Hindsgaul" uid="185440" lat="55.6188881" lon="12.5924420"/>
+ <node id="307942702" visible="true" version="22" changeset="6994654" timestamp="2011-01-16T22:19:31Z" user="Claus Hindsgaul" uid="185440" lat="55.6093528" lon="12.5910928"/>
+ <node id="281693260" visible="true" version="10" changeset="37675924" timestamp="2016-03-07T22:20:39Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6176924" lon="12.5944121"/>
+ <node id="340764124" visible="true" version="11" changeset="29548612" timestamp="2015-03-17T19:23:57Z" user="Bilbo-denmark" uid="295005" lat="55.6171290" lon="12.5924338">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="160"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="osak:house_no" v="160"/>
+  <tag k="osak:identifier" v="0A3F507E00D432B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Oliefabriksvej"/>
+  <tag k="osak:street_no" v="2185"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="281692529" visible="true" version="20" changeset="9524667" timestamp="2011-10-10T19:00:22Z" user="Claus Hindsgaul" uid="185440" lat="55.6218090" lon="12.5921358"/>
+ <node id="307670973" visible="true" version="11" changeset="9524667" timestamp="2011-10-10T19:06:04Z" user="Claus Hindsgaul" uid="185440" lat="55.6187587" lon="12.6013129"/>
+ <node id="425520287" visible="true" version="4" changeset="9524667" timestamp="2011-10-10T19:06:05Z" user="Claus Hindsgaul" uid="185440" lat="55.6182235" lon="12.5977595"/>
+ <node id="1520331623" visible="true" version="1" changeset="9972621" timestamp="2011-11-27T22:05:59Z" user="Claus Hindsgaul" uid="185440" lat="55.6186217" lon="12.6109545"/>
+ <node id="1520331625" visible="true" version="1" changeset="9972621" timestamp="2011-11-27T22:05:59Z" user="Claus Hindsgaul" uid="185440" lat="55.6186261" lon="12.6123279"/>
+ <node id="2411691385" visible="true" version="1" changeset="17275364" timestamp="2013-08-09T07:13:49Z" user="Hjart" uid="207581" lat="55.6171021" lon="12.5963863"/>
+ <node id="2411691389" visible="true" version="1" changeset="17275364" timestamp="2013-08-09T07:13:49Z" user="Hjart" uid="207581" lat="55.6174071" lon="12.5991584"/>
+ <node id="2411691390" visible="true" version="1" changeset="17275364" timestamp="2013-08-09T07:13:49Z" user="Hjart" uid="207581" lat="55.6174785" lon="12.5997200"/>
+ <node id="2411691406" visible="true" version="1" changeset="17275364" timestamp="2013-08-09T07:13:49Z" user="Hjart" uid="207581" lat="55.6185323" lon="12.6058113"/>
+ <node id="17033285" visible="true" version="18" changeset="17275364" timestamp="2013-08-09T07:14:16Z" user="Hjart" uid="207581" lat="55.6179987" lon="12.6027495"/>
+ <node id="26677109" visible="true" version="8" changeset="17275364" timestamp="2013-08-09T07:14:19Z" user="Hjart" uid="207581" lat="55.6171200" lon="12.5968253"/>
+ <node id="280181304" visible="true" version="11" changeset="17275364" timestamp="2013-08-09T07:14:19Z" user="Hjart" uid="207581" lat="55.6176070" lon="12.6004834"/>
+ <node id="281692656" visible="true" version="10" changeset="17275364" timestamp="2013-08-09T07:14:20Z" user="Hjart" uid="207581" lat="55.6183077" lon="12.6045837"/>
+ <node id="281692999" visible="true" version="9" changeset="17275364" timestamp="2013-08-09T07:14:20Z" user="Hjart" uid="207581" lat="55.6186191" lon="12.6080094"/>
+ <node id="281693258" visible="true" version="10" changeset="17275364" timestamp="2013-08-09T07:14:20Z" user="Hjart" uid="207581" lat="55.6184312" lon="12.5994220"/>
+ <node id="281693625" visible="true" version="10" changeset="17275364" timestamp="2013-08-09T07:14:20Z" user="Hjart" uid="207581" lat="55.6178124" lon="12.6016501"/>
+ <node id="335897761" visible="true" version="4" changeset="17275364" timestamp="2013-08-09T07:14:23Z" user="Hjart" uid="207581" lat="55.6171110" lon="12.5959690"/>
+ <node id="3404320827" visible="true" version="1" changeset="29548043" timestamp="2015-03-17T18:56:11Z" user="Bilbo-denmark" uid="295005" lat="55.6171200" lon="12.5924300">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:housenumber" v="160"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="name" v="Johns Kagehus"/>
+  <tag k="opening_hours" v="Mo-Fr 05:30-17:00; Sa 05:30-16:00"/>
+  <tag k="shop" v="bakery"/>
+  <tag k="source" v="Export from addressnode"/>
+ </node>
+ <node id="3404342445" visible="true" version="1" changeset="29548612" timestamp="2015-03-17T19:22:31Z" user="Bilbo-denmark" uid="295005" lat="55.6171200" lon="12.5924300">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:housenumber" v="160"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Oliefabriksvej"/>
+  <tag k="name" v="Johns Kagehus"/>
+  <tag k="opening_hours" v="Mo-Fr 05:30-17:00; Sa 05:30-16:00"/>
+  <tag k="shop" v="bakery"/>
+  <tag k="source" v="Export from addressnode"/>
+ </node>
+ <node id="340756237" visible="true" version="6" changeset="28380752" timestamp="2015-01-24T19:39:32Z" user="AWSbot" uid="2184056" lat="55.6172140" lon="12.5943640">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="105"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="105"/>
+  <tag k="osak:identifier" v="0A3F507DE4A832B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T12:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="AWS Web API"/>
+ </node>
+ <node id="340756238" visible="true" version="5" changeset="28380752" timestamp="2015-01-24T19:39:35Z" user="AWSbot" uid="2184056" lat="55.6174826" lon="12.5944058">
+  <tag k="addr:city" v="Kastrup"/>
+  <tag k="addr:country" v="DK"/>
+  <tag k="addr:housenumber" v="106"/>
+  <tag k="addr:postcode" v="2770"/>
+  <tag k="addr:street" v="Brønderslev Alle"/>
+  <tag k="osak:house_no" v="106"/>
+  <tag k="osak:identifier" v="0A3F507DE4A932B8E0440003BA298018"/>
+  <tag k="osak:municipality_name" v="Tårnby"/>
+  <tag k="osak:municipality_no" v="185"/>
+  <tag k="osak:revision" v="1998-11-26T00:00:00"/>
+  <tag k="osak:street_name" v="Brønderslev Alle"/>
+  <tag k="osak:street_no" v="1210"/>
+  <tag k="source" v="OSAK (2010)"/>
+ </node>
+ <node id="4046652533" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:34Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6162674" lon="12.5865501"/>
+ <node id="4046652536" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:34Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6164147" lon="12.5874349"/>
+ <node id="4046652538" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:34Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6164742" lon="12.5877782"/>
+ <node id="4046652543" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6170123" lon="12.5932829"/>
+ <node id="4046652544" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6169956" lon="12.5926587"/>
+ <node id="4046652546" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6178908" lon="12.5956432"/>
+ <node id="4046652547" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6180059" lon="12.5947527"/>
+ <node id="4046652548" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6177757" lon="12.5948734"/>
+ <node id="4046652549" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6176621" lon="12.5930790"/>
+ <node id="4046652551" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6180287" lon="12.5965015"/>
+ <node id="4046652553" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6179453" lon="12.5959812"/>
+ <node id="4046652555" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:35Z" user="Niels Elgaard Larsen" uid="1288" lat="55.6180756" lon="12.5967993"/>
+ <way id="1929997" visible="true" version="26" changeset="37675924" timestamp="2016-03-07T22:20:40Z" user="Niels Elgaard Larsen" uid="1288">
+  <nd ref="26588215"/>
+  <nd ref="26588211"/>
+  <nd ref="26588207"/>
+  <nd ref="26588201"/>
+  <nd ref="281695145"/>
+  <nd ref="374290939"/>
+  <nd ref="26588197"/>
+  <nd ref="26588194"/>
+  <nd ref="8312019"/>
+  <nd ref="251438387"/>
+  <nd ref="4046652533"/>
+  <nd ref="251438385"/>
+  <nd ref="4046652536"/>
+  <nd ref="251438389"/>
+  <nd ref="4046652538"/>
+  <nd ref="251438386"/>
+  <nd ref="8312021"/>
+  <nd ref="251438391"/>
+  <nd ref="1038057281"/>
+  <nd ref="26588182"/>
+  <nd ref="8312023"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Pilegård Allé"/>
+ </way>
+ <way id="25822858" visible="true" version="10" changeset="33993272" timestamp="2015-09-13T06:24:50Z" user="Ильин Роман" uid="402565">
+  <nd ref="281662797"/>
+  <nd ref="1106880125"/>
+  <nd ref="1106880117"/>
+  <nd ref="1106880153"/>
+  <nd ref="1106880136"/>
+  <nd ref="1106880126"/>
+  <nd ref="1106880113"/>
+  <nd ref="1106880102"/>
+  <nd ref="1106880106"/>
+  <nd ref="1106880146"/>
+  <nd ref="1106880129"/>
+  <nd ref="281662799"/>
+  <nd ref="281662800"/>
+  <nd ref="281662797"/>
+  <tag k="alt_name" v="Haveforeningen Ved Pilegården"/>
+  <tag k="landuse" v="allotments"/>
+  <tag k="name" v="Ved Pilegården"/>
+  <tag k="place" v="allotments"/>
+ </way>
+ <way id="42709792" visible="true" version="11" changeset="37675924" timestamp="2016-03-07T22:20:41Z" user="Niels Elgaard Larsen" uid="1288">
+  <nd ref="8032478"/>
+  <nd ref="251438381"/>
+  <nd ref="281692529"/>
+  <nd ref="251438382"/>
+  <nd ref="26588324"/>
+  <nd ref="251438383"/>
+  <nd ref="251438379"/>
+  <nd ref="281662798"/>
+  <nd ref="281693122"/>
+  <nd ref="8312023"/>
+  <nd ref="4046652544"/>
+  <nd ref="8032481"/>
+  <nd ref="26677119"/>
+  <nd ref="8032483"/>
+  <nd ref="281694130"/>
+  <nd ref="251438415"/>
+  <nd ref="16965545"/>
+  <nd ref="30688692"/>
+  <nd ref="307942702"/>
+  <nd ref="307942446"/>
+  <nd ref="307941457"/>
+  <nd ref="251438413"/>
+  <nd ref="281699576"/>
+  <nd ref="281699559"/>
+  <nd ref="1036890896"/>
+  <tag k="cycleway" v="track"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Oliefabriksvej"/>
+ </way>
+ <way id="89541343" visible="true" version="5" changeset="17094912" timestamp="2013-07-25T22:07:50Z" user="Hjart" uid="207581">
+  <nd ref="1038057298"/>
+  <nd ref="1038057277"/>
+  <nd ref="1038057297"/>
+  <tag k="highway" v="service"/>
+  <tag k="lit" v="no"/>
+  <tag k="name" v="2. vej"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="89541336" visible="true" version="6" changeset="17094912" timestamp="2013-07-25T22:07:50Z" user="Hjart" uid="207581">
+  <nd ref="1038057258"/>
+  <nd ref="1038057189"/>
+  <nd ref="1038057282"/>
+  <nd ref="1038057270"/>
+  <nd ref="1038057260"/>
+  <tag k="highway" v="service"/>
+  <tag k="lit" v="no"/>
+  <tag k="name" v="1. vej"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="4374629" visible="true" version="17" changeset="37675924" timestamp="2016-03-07T22:20:42Z" user="Niels Elgaard Larsen" uid="1288">
+  <nd ref="307670973"/>
+  <nd ref="281693258"/>
+  <nd ref="425520287"/>
+  <nd ref="4046652555"/>
+  <nd ref="4046652551"/>
+  <nd ref="4046652553"/>
+  <nd ref="4046652546"/>
+  <nd ref="4046652548"/>
+  <nd ref="281693260"/>
+  <nd ref="1106880133"/>
+  <nd ref="281693262"/>
+  <nd ref="26677111"/>
+  <nd ref="26677114"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Sønderholm Alle"/>
+ </way>
+ <way id="3446481" visible="true" version="30" changeset="36368730" timestamp="2016-01-04T20:58:02Z" user="Hjart" uid="207581">
+  <nd ref="8312023"/>
+  <nd ref="26677113"/>
+  <nd ref="26677112"/>
+  <nd ref="26677111"/>
+  <nd ref="26677110"/>
+  <nd ref="335897761"/>
+  <nd ref="2411691385"/>
+  <nd ref="26677109"/>
+  <nd ref="17033284"/>
+  <nd ref="2411691389"/>
+  <nd ref="2411691390"/>
+  <nd ref="280181304"/>
+  <nd ref="281693625"/>
+  <nd ref="17033285"/>
+  <nd ref="281692656"/>
+  <nd ref="2411691406"/>
+  <nd ref="8097119"/>
+  <nd ref="8097117"/>
+  <nd ref="281693620"/>
+  <nd ref="281692999"/>
+  <nd ref="1427283642"/>
+  <nd ref="30688381"/>
+  <nd ref="30688421"/>
+  <nd ref="1427328187"/>
+  <nd ref="1520331623"/>
+  <nd ref="30688432"/>
+  <nd ref="1520331625"/>
+  <nd ref="17033272"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Brønderslev Alle"/>
+ </way>
+ <way id="402252705" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:36Z" user="Niels Elgaard Larsen" uid="1288">
+  <nd ref="4046652543"/>
+  <nd ref="4046652544"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="402252710" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:37Z" user="Niels Elgaard Larsen" uid="1288">
+  <nd ref="4046652547"/>
+  <nd ref="4046652548"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="402252713" visible="true" version="1" changeset="37675924" timestamp="2016-03-07T22:20:37Z" user="Niels Elgaard Larsen" uid="1288">
+ </way>
+ <relation id="3194111" visible="true" version="11" changeset="36196506" timestamp="2015-12-27T15:03:57Z" user="Jesper Henriksen" uid="1124">
+ </relation>
+</osm>
